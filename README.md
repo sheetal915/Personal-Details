@@ -64,16 +64,16 @@ Ticket creation, categorization, prioritization in ticket tracking tool TIMO.(VP
 ---
 
 ## 🎓 Education
-- **MCA — Savitribai Phule Pune University (2023–2025)**  
-- **B.Sc CS — Dr. Babasaheb Ambedkar Marathwada University (2020–2023)**  
+- **BE IT — Savitribai Phule Pune University (2014-2018)**  
+- **Diploma in computer engineering — Maharashtra state Board (2011–2014)**  
 
 ---
 
 ## 📜 Certifications
-- AWS Cloud Practitioner Essentials  
-- Linux Server Administration  
-- Linux Crash Course for Beginners  
-- Introductory Linux Command Line  
+-  Microsoft Azure Administrator(AZ-104)
+-  
+- 
+- 
 
 ---
 
